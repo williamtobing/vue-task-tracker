@@ -16,18 +16,18 @@
       "id": 4,
       "text": "Mencuri Ikan tapi Bayar",
       "day": "Marminggu, 30 Februari 2020",
-      "reminder": true
+      "reminder": false
     },
     {
       "text": "Membalap Mi Balap",
       "day": "Kahumis, 17 August 1099",
-      "reminder": true,
+      "reminder": false,
       "id": 5
     },
     {
       "text": "Memanjat Pohon Cabe",
       "day": "Juminggu, 99 Februapril 0129",
-      "reminder": true,
+      "reminder": false,
       "id": 6
     }
   ]
