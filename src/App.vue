@@ -14,38 +14,37 @@ export default {
   },
   data() {
     return {
-      tasks: []
-    }
+      tasks: [],
+    };
   },
   created() {
     this.tasks = [
       {
-      id: 1,
-      text: "Memancing Ikan di Dapur",
-      day: "Senen, 8 Mharet 2000",
-      reminder: true,
-    },
-    {
-      id: 2,
-      text: "Memakan Sate Abang Adek",
-      day: "Jumahat, 10 AgusHarimurti 2077",
-      reminder: true,
-    },
-    {
-      id: 3,
-      text: "Mencagkul Tobat di Kampung",
-      day: "Rebo, 13 Martumpol 1945",
-      reminder: false,
-    },
-    {
-      id: 4,
-      text: "Mencuri Ikan tapi Bayar",
-      day: "Marminggu, 30 Februari 2020",
-      reminder: false,
-    },
-  ]);
-    ]
-  }
+        id: 1,
+        text: "Memancing Ikan di Dapur",
+        day: "Senen, 8 Mharet 2000",
+        reminder: true,
+      },
+      {
+        id: 2,
+        text: "Memakan Sate Abang Adek",
+        day: "Jumahat, 10 AgusHarimurti 2077",
+        reminder: true,
+      },
+      {
+        id: 3,
+        text: "Mencagkul Tobat di Kampung",
+        day: "Rebo, 13 Martumpol 1945",
+        reminder: false,
+      },
+      {
+        id: 4,
+        text: "Mencuri Ikan tapi Bayar",
+        day: "Marminggu, 30 Februari 2020",
+        reminder: false,
+      },
+    ];
+  },
 };
 </script>
 
